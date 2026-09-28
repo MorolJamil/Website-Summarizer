@@ -29,7 +29,7 @@ python3 -m pip install -r requirements.txt
 2. Change the page link at the top:
 
    ```python
-   PAGE_URL = "https://www.python.org"
+   PAGE_URL = "https://www.bbc.com/news"
    ```
 
 3. (Optional) Choose where to save the result:
@@ -49,7 +49,7 @@ python3 -m pip install -r requirements.txt
 The Excel file is saved to `Downloads/Website Summaries` by default, with the site name and time in the file name, for example:
 
 ```
-github.com_summary_2026-09-28_14-30-00.xlsx
+bbc.com_summary_2026-09-28_14-30-00.xlsx
 ```
 
 | Short Summary | Description |
